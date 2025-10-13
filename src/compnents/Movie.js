@@ -12,7 +12,7 @@
 //   useEffect(() => {
 //     axios
 //       .get(
-//         `https://api.themoviedb.org/3/movie/popular?api_key=10ea5193e7b34adcbd5823dd8c8e29cb&language=en-US&page=${pageNo}`
+//         `https://api.themoviedb.org/3/movie/popular?api_key=&language=en-US&page=${pageNo}`
 //       )
 //       .then((res) => {
 //         setMovies(res.data.results);
