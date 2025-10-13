@@ -1,23 +1,22 @@
-<img width="1890" height="922" alt="movie12" src="https://github.com/user-attachments/assets/971e020d-06b0-4561-8b2c-ff1bf92113f9" />
 🎬 Movie – Your Cinematic Universe in a Click
 
-Welcome to Movie, a sleek and user-friendly web application that brings the world of cinema to your fingertips. Whether you're a casual viewer or a cinephile, Movie offers an immersive experience to discover, explore, and enjoy films and TV shows.
+Welcome to Movie, a sleek and user-friendly web application that brings the world of cinema to your fingertips. Discover trending movies, check ratings, and explore details—all in one place.
 
 🚀 Features
 
-Comprehensive Movie Database: Access detailed information about movies and TV shows, including ratings, genres, and release dates.
+Comprehensive Movie Database: Access detailed information about movies, including ratings, genres, and release dates.
 
-Trending Content: Stay updated with the latest trending movies and TV shows.
+Trending Content: Stay updated with the latest trending movies.
 
-Responsive Design: Enjoy a seamless experience across all devices.
+Responsive Design: Works beautifully on mobile, tablet, and desktop.
 
-User Authentication: Sign in using your credentials or GitHub account for a personalized experience.
+Watchlist Management: Add or remove your favorite movies to keep track of them.
 
 🌐 Live Demo
 
-Experience the application in action by visiting the live demo:
+Experience the app live here:
 
-👉 movie-xi-roan.vercel.app
+👉 https://movie-xi-roan.vercel.app/
 
 🛠️ Technologies Used
 
@@ -30,10 +29,10 @@ APIs: OMDb API
 Deployment: Vercel
 
 📸 Screenshots
+<img width="1897" height="917" alt="movie1" src="https://github.com/user-attachments/assets/ebfe9e2e-e53c-4d5a-85ab-0f0173aeab09" />
+<img width="1890" height="922" alt="movie12" src="https://github.com/user-attachments/assets/4b06c591-f0d2-428e-8c30-5474748c2c2f" />
+<img width="1896" height="915" alt="movie3" src="https://github.com/user-attachments/assets/8230582c-fe33-43a3-9b60-d350f5b9d11b" />
 
-![Uploading movie12.png…]()
-<img width="1896" height="915" alt="movie3" src="https://github.com/user-attachments/assets/d620030d-72be-4449-a95e-45bf44c34f40" />
-<img width="1897" height="917" alt="movie1" src="https://github.com/user-attachments/assets/93798916-e6b5-4165-a0f0-645446baedcd" />
 
 🧪 How to Run Locally
 
@@ -76,5 +75,27 @@ Create a pull request detailing your changes.
 
 📄 License
 
-This project is licensed under the MIT License – see the LICENSEfile for details.
+This project is licensed under the MIT License – see the LICENSE
+ file for details.
 
+MIT License
+
+Copyright (c) 2025 Avdhut
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
