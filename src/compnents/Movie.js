@@ -68,11 +68,15 @@ function Movie({ handleWatchlist, handleRemove, watchlist }) {
   const [movies, setMovies] = useState([]);
   const [pageNo, setPageNo] = useState(1);
   const [darkMode, setDarkMode] = useState(false);
+  const API_KEY = process.env.REACT_APP_API_KEY;
+  console.log("API Key from env:", API_KEY);
+
+
 
   useEffect(() => {
     axios
       .get(
-        `https://api.themoviedb.org/3/movie/popular?api_key=${process.env.API_KEY}&language=en-US&page=${pageNo}`
+        `https://api.themoviedb.org/3/movie/popular?api_key=${API_KEY}&language=en-US&page=${pageNo}`
       )
       .then((res) => setMovies(res.data.results))
       .catch((err) => console.error(err));
