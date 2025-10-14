@@ -24,7 +24,7 @@ Frontend: React
 
 Styling: Tailwind CSS
 
-APIs: OMDb API
+APIs: TMDb API
 
 Deployment: Vercel
 
